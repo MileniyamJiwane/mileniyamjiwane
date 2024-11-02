@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Sample Page	</title>
-	<atom:link href="/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://mileniyamjiwane.github.io/mileniyamjiwane/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mileniyamjiwane.github.io/mileniyamjiwane</link>
 	<description></description>
 	<lastBuildDate>Sat, 02 Nov 2024 07:52:56 +0000</lastBuildDate>
 	<sy:updatePeriod>
